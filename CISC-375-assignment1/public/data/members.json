@@ -1,0 +1,8 @@
+{
+    "willsmith@example.com": {
+        "fname": "WIll",
+        "lname": "Smith",
+        "gender": "M",
+        "birthday": "1967-06-01"
+    }
+}
